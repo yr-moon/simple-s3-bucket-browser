@@ -22,10 +22,6 @@ This project allows you to navigate folders, view files, and see the latest modi
    ```
 3. Open `index.html` in your browser.
 
-## Requirements
-- Public `ListBucket` and `GetObject` permissions on your bucket (if accessed anonymously)
-- Proper [CORS configuration](https://docs.aws.amazon.com/AmazonS3/latest/userguide/enabling-cors.html) for cross-origin requests
-
 ## License
 [MIT](LICENSE)
 
