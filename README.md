@@ -1,7 +1,5 @@
 # simple-s3-bucket-browser
 
-# S3 Bucket Browser
-
 A simple, client-side S3 bucket browser built with HTML + jQuery.  
 This project allows you to navigate folders, view files, and see the latest modified date of nested contents.
 
